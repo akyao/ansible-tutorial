@@ -1,4 +1,10 @@
 編集中
+TODO
+/ansible/*
+Vagrantfile
+setup.sh
+
+ansible dirはnode1と共有
 
 # ansible-tutorial
 ansibleを使ってwordpress環境を用意するサンプル  
