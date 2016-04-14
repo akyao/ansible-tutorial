@@ -7,7 +7,7 @@ http://celtislab.net/archives/20160127/ansible_tutorial_for_windows/
 # pre required
 vagrant installed
 
-# Hot to
+# How to
 ## in host
 ```bash
 mkdir something
